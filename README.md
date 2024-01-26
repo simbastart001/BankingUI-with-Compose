@@ -16,7 +16,7 @@ Bank App UI is an Android application showcasing a modern and visually appealing
 
 ## Screenshots
 
-![Home Screen](res/drawable/img.png)
+![Home Screen](app/src/main/res/drawable/img.png)
 
 ## Usage
 
