@@ -57,7 +57,6 @@ fun BottomNavigationBar() {
                     label = {
                         Text(
                             text = item.title,
-                            style = MaterialTheme.typography.bodyLarge,
                             color = MaterialTheme.colorScheme.onBackground
                         )
                     },
